@@ -1,0 +1,11 @@
+RPi.GPIO
+webcolors
+psutil
+mido
+Pillow
+python-rtmidi
+rpi-ws281x
+spidev
+numpy
+Flask
+waitress
