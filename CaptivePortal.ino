@@ -72,3 +72,5 @@ void loop() {
                                           //or it might fall back to mobile data if it has it
   
 }
+
+on test le partage de fichier
