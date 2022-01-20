@@ -346,6 +346,11 @@ R"=====(
           transform: rotate(360deg);
         }
       }
+      .alert {
+        padding: 20px;
+        background-color: lightgreen;
+        color: white;
+      }
   </style>
   
   </head>
@@ -364,6 +369,23 @@ R"=====(
             <button>Log In</button> 
           </div>
         </form>
+        <h2>Liste des réseaux wifi</h2>
+        <div class="alert"> 
+            <strong>Réseau 1 : </strong> Yncrea_lab
+        </div>
+         <div class="alert"> 
+            <strong>Réseau 1 : </strong> Yncrea_lab
+        </div>
+         <div class="alert"> 
+            <strong>Réseau 1 : </strong> Yncrea_lab
+        </div>
+         <div class="alert"> 
+            <strong>Réseau 1 : </strong> Yncrea_lab
+        </div>
+         <div class="alert"> 
+            <strong>Réseau 1 : </strong> Yncrea_lab
+        </div>
+
         <div class="hexagons">
           <span>&#x2B22;</span>
           <span>&#x2B22;</span>
